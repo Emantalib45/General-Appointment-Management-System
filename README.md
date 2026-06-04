@@ -8,9 +8,11 @@ CareSync is a dynamic, fully-responsive PHP and MySQL-powered clinic/hospital op
 
 ## 📸 Screenshots & Preview
 
-| Patient Booking Portal | Admin Operations Dashboard |
+| Admin Operations Dashboard |
 | :---: | :---: |
-| ![Patient Portal Preview](<img width="665" height="361" alt="Screenshot 2026-06-05 005801" src="https://github.com/user-attachments/assets/ae0df467-8dc7-44fa-8033-cb3e43d830de" />) | ![Admin Dashboard Preview](<img width="947" height="407" alt="Screenshot 2026-06-05 005718" src="https://github.com/user-attachments/assets/48dee4ad-4554-4f41-85bb-cb0755c12187" />) |
+<img width="947" height="407" alt="Screenshot 2026-06-05 005718" src="https://github.com/user-attachments/assets/a4b74c20-02de-4ff4-8725-949579bbd7b8" />
+| Patient Booking Portal|
+<img width="665" height="361" alt="Screenshot 2026-06-05 005801" src="https://github.com/user-attachments/assets/0d26729b-ded8-4e38-9a5b-726e5390347a" />
 
 ---
 
