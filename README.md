@@ -1,6 +1,16 @@
 # 🏥 CareSync Hospital Management & Patient Portal
 
+![CareSync Project Banner](path/to/your/banner-image.png)
+
 CareSync is a dynamic, fully-responsive PHP and MySQL-powered clinic/hospital operations platform. It features a modern user interface and bridges public patient appointment scheduling with a secured multi-role healthcare administration portal (Admin and Doctor views).
+
+---
+
+## 📸 Screenshots & Preview
+
+| Patient Booking Portal | Admin Operations Dashboard |
+| :---: | :---: |
+| ![Patient Portal Preview](path/to/your/patient-portal-screenshot.png) | ![Admin Dashboard Preview](path/to/your/admin-dashboard-screenshot.png) |
 
 ---
 
@@ -12,7 +22,7 @@ CareSync is a dynamic, fully-responsive PHP and MySQL-powered clinic/hospital op
 
 ### 👔 Admin Dashboard & Controls
 * **Live Operational Analytics:** Track key metrics such as Total Scheduled Doctors, Total Overall Bookings, Today's Patient Count, and Real-time Completed Status Earnings directly on the main control panel.
-* **Automated Account Provisioning:** When adding a new availability slot for a practitioner, the system automatically checks for an active user login profile and provisions one dynamically if missing.
+* **Automating Account Provisioning:** When adding a new availability slot for a practitioner, the system automatically checks for an active user login profile and provisions one dynamically if missing.
 * **Comprehensive Scheduling & Logging:** Maintain multi-layered parameters including specializations, sliding-scale consultation fee setups, and explicit operating windows.
 
 ### 👨‍⚕️ Doctor Dashboard & Portal
